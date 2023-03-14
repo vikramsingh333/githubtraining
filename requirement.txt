@@ -4,3 +4,7 @@ type option
 colors
 darkmode
 vibrant
+
+payment added
+send money
+receive money
